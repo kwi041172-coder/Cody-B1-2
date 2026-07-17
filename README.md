@@ -77,7 +77,7 @@ premium futuristic branding, black and deep blue color palette, neon blue glow, 
 | 목표 메시지 | BitradeX를 AI 디지털 자산 플랫폼으로 기억하게 만든다. |
 | 화면 구성 | 정면 클로즈업 / BitradeX 로고와 플랫폼 UI가 함께 등장 / 블랙 배경 / 'AI가 만드는 디지털 자산의 미래' 슬로건 노출 |
 | 내레이션/카피 | "BitradeX. AI가 만드는 디지털 자산의 미래." |
-| 사용 도구 + 목적 | CapCut Desktop (무료) + 텍스트, 자막, 전환 효과, BGM을 추가하고 최종 영상을 편집 / Premiere Pro + 최종 편집 |
+| 사용 도구 + 목적 | Hailuo AI(무료 플랜) + BitradeX 로고와 플랫폼 UI 생성 / CapCut Desktop (무료) + 텍스트, 자막, 전환 효과, BGM을 추가하고 최종 영상을 편집 / Premiere Pro + 최종 편집 |
 | 입력 프롬프트(원문) | The BitradeX logo emerging with a futuristic digital platform interface, illuminated by elegant blue light. Front close-up, minimal black background, premium holographic UI, powerful brand reveal, representing the future of AI-powered digital assets.
 
 premium futuristic branding, black and deep blue color palette, neon blue glow, cinematic lighting, minimal design, ultra realistic, clean composition, high-tech, 4K, 16:9 |
