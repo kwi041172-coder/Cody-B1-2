@@ -49,7 +49,7 @@
 | 목표 메시지(한 문장) | BitradeX는 AI 기반 디지털 자산 플랫폼이다. |
 | 화면 구성 (구도/피사체/배경/텍스트 유무) | 와이드샷 / AI 브레인과 디지털 자산 심볼이 빛으로 연결됨 / 블랙 배경 / 중앙에 'AI Digital Asset Platform' 텍스트 |
 | 내레이션 또는 화면 카피 | "AI 기반 디지털 자산 플랫폼." |
-| 사용 도구 + 사용 목적 | Hailuo AI(무료 플랜) + AI 브레인 및 디지털 자산 영상 생성 / After Effects + 데이터 연결 효과 |
+| 사용 도구 + 사용 목적 | Hailuo AI(무료 플랜) + AI 브레인 및 디지털 자산 영상 생성 / CapCut Desktop (무료) + 텍스트, 자막, 전환 효과, BGM을 추가하고 최종 영상을 편집 |
 | 입력 프롬프트(원문 그대로) | A futuristic AI brain connected to glowing digital asset symbols through blue data streams, representing an AI-powered digital asset platform. Wide shot, black background, holographic interface, clean and minimal composition, subtle floating particles, premium technology atmosphere.
 
 premium futuristic branding, black and deep blue color palette, neon blue glow, cinematic lighting, minimal design, ultra realistic, clean composition, high-tech, 4K, 16:9 |
@@ -63,7 +63,7 @@ premium futuristic branding, black and deep blue color palette, neon blue glow, 
 | 목표 메시지 | AI 기술이 디지털 자산을 더 스마트하게 연결한다. |
 | 화면 구성 | 미디엄샷 / 데이터 네트워크 위로 다양한 디지털 자산 아이콘이 이동 / 미래형 인터페이스 배경 / 중앙에 'SMART · SECURE · GLOBAL' 텍스트 |
 | 내레이션/카피 | "AI가 더 스마트한 연결을 만듭니다." |
-| 사용 도구 + 목적 | Hailuo AI(무료 플랜) + 디지털 네트워크 생성 / After Effects + UI 및 데이터 흐름 효과 |
+| 사용 도구 + 목적 | Hailuo AI(무료 플랜) + 디지털 네트워크 생성 / CapCut Desktop (무료) + 텍스트, 자막, 전환 효과, BGM을 추가하고 최종 영상을 편집 |
 | 입력 프롬프트(원문) | Glowing digital asset icons flowing through an AI-powered data network above a futuristic platform interface. Medium shot, holographic dashboard, seamless digital connections, elegant motion, representing smart, secure, and global digital asset technology.
 
 premium futuristic branding, black and deep blue color palette, neon blue glow, cinematic lighting, minimal design, ultra realistic, clean composition, high-tech, 4K, 16:9 |
@@ -77,7 +77,7 @@ premium futuristic branding, black and deep blue color palette, neon blue glow, 
 | 목표 메시지 | BitradeX를 AI 디지털 자산 플랫폼으로 기억하게 만든다. |
 | 화면 구성 | 정면 클로즈업 / BitradeX 로고와 플랫폼 UI가 함께 등장 / 블랙 배경 / 'AI가 만드는 디지털 자산의 미래' 슬로건 노출 |
 | 내레이션/카피 | "BitradeX. AI가 만드는 디지털 자산의 미래." |
-| 사용 도구 + 목적 | After Effects + 로고 리빌 및 UI 합성 / Premiere Pro + 최종 편집 |
+| 사용 도구 + 목적 | CapCut Desktop (무료) + 텍스트, 자막, 전환 효과, BGM을 추가하고 최종 영상을 편집 / Premiere Pro + 최종 편집 |
 | 입력 프롬프트(원문) | The BitradeX logo emerging with a futuristic digital platform interface, illuminated by elegant blue light. Front close-up, minimal black background, premium holographic UI, powerful brand reveal, representing the future of AI-powered digital assets.
 
 premium futuristic branding, black and deep blue color palette, neon blue glow, cinematic lighting, minimal design, ultra realistic, clean composition, high-tech, 4K, 16:9 |
