@@ -15,9 +15,6 @@
 | 보너스 2 – 다른 도구 재제작 | ✍️ | ⬜ 선택 |
 | 보너스 3 – 비율별 버전 | ✍️ | ⬜ 선택 |
 
-> 💡 파일명 규칙은 자유지만 반드시 통일하세요.
-> 추천: `scene01_img.png`, `scene01_video.mp4`, `bgm.mp3`, `narration.mp3`
-
 ---
 
 # 1️⃣ 산출물 1: 스토리보드(기획) 문서
@@ -86,15 +83,38 @@ premium futuristic branding, black and deep blue color palette, neon blue glow, 
 
 ## 1-5. 프롬프트 수정 전/후 기록 (⚠️ 최소 1개 씬 필수)
 
-- **대상 씬**: 씬 ✍️번
-- **수정 전 프롬프트**: ✍️
-- **문제점**: ✍️
-- **수정 후 프롬프트**: ✍️
-- **무엇을 왜 바꿨나**: ✍️
-- **결과 변화**: ✍️
+- **대상 씬**: 씬 1번
+- **수정 전 프롬프트**: A futuristic AI brain connected to glowing digital asset symbols through blue data streams, representing an AI-powered digital asset platform. Wide shot, black background, holographic interface, clean and minimal composition, subtle floating particles, premium technology atmosphere.
 
-> 💡 첫 결과가 이상하면 화내지 말고 기록하세요. 그게 점수예요! 😄
-> 예: "커피잔이 두 개 나옴 → 프롬프트에 `a single cup` 추가 → 한 개만 생성됨"
+premium futuristic branding, black and deep blue color palette, neon blue glow, cinematic lighting, minimal design, ultra realistic, clean composition, high-tech, 4K, 16:9 
+- **문제점**:
+  AI 브레인의 형태가 단순하여 일반적인 AI 이미지처럼 보여 브랜드만의 차별성이 부족했다.
+  디지털 자산과 AI의 연결성이 약해 BitradeX의 핵심 메시지가 직관적으로 전달되지 않았다.
+  브랜드명이 화면에 없어 첫 장면에서 BitradeX를 인식하기 어려웠다.
+ 미래적이고 프리미엄한 분위기는 표현되었지만, 광고의 첫 장면으로는 시각적 임팩트가 다소 부족했다.
+- **수정 후 프롬프트**: A crystal-transparent AI brain floats in a dark futuristic space, crafted from elegant glass-like material with subtle metallic circuit patterns. A bright blue AI core pulses naturally inside the brain, symbolizing intelligence, trust, and advanced AI technology.
+
+Blue holographic data streams flow outward from the brain, seamlessly connecting to glowing digital asset symbols, blockchain nodes, and abstract financial data. Soft floating particles drift through the scene while minimal holographic interfaces gently appear around the brain.
+
+The camera performs a slow cinematic push-in toward the AI brain, creating a premium and immersive introduction. The blue energy inside the brain continuously flows, while the surrounding data streams move smoothly and naturally. The atmosphere is calm, futuristic, and sophisticated.
+
+On-screen text:
+"BitradeX"
+"AI Digital Asset Platform"
+
+premium futuristic branding, black and deep blue color palette, neon blue glow, cinematic lighting, minimal design, ultra realistic, clean composition, high-tech, 4K, 16:9 
+- **무엇을 왜 바꿨나**:
+  AI 브레인을 크리스털 질감으로 변경하여 미래적이고 프리미엄한 이미지를 강화하였다.
+ 뇌 중심에 AI 코어를 추가하여 AI 기술의 핵심 이미지를 강조하였다.
+ 블록체인 노드와 디지털 자산을 연결하는 데이터 스트림을 추가해 BitradeX의 플랫폼 특성을 직관적으로 표현하였다.
+ 카메라의 Slow Push-in 움직임을 적용하여 광고의 몰입감과 완성도를 높였다.
+ 화면에 BitradeX와 AI Digital Asset Platform 텍스트를 추가하여 브랜드 인지도를 높였다.
+ 기존과 동일한 공통 스타일 프롬프트를 유지하여 전체 광고의 색감과 분위기를 일관되게 유지하였다.
+- **결과 변화**:
+ AI 기반 디지털 자산 플랫폼이라는 브랜드 메시지가 더욱 명확하게 전달되었다.
+ 첫 장면부터 BitradeX 브랜드를 쉽게 인식할 수 있게 되었다.
+ 영상의 미래적이고 프리미엄한 분위기가 강화되어 브랜드 광고의 완성도가 높아졌다.
+ Scene 2, Scene 3와 동일한 스타일을 유지하여 광고 전체의 통일성과 몰입감이 향상되었다.
 
 ## 1-6. 사용 도구 목록 & 대체 도구 (⚠️ 대체 도구 1개 이상 필수)
 
